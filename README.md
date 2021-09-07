@@ -19,8 +19,12 @@
       
 ### OUTPUT
 
-1. Booking name cannot be empty. ![n1](https://user-images.githubusercontent.com/85042722/132301585-79d0c750-6d1a-46d0-8e14-a36bfb3c05c4.jpg)
+1. Booking name cannot be empty. 
 
-3. Number of passengers cannot be negative![n2](https://user-images.githubusercontent.com/85042722/132301802-8219f535-42df-4496-99cc-5881f3a888bf.jpg)
+![n1](https://user-images.githubusercontent.com/85042722/132301585-79d0c750-6d1a-46d0-8e14-a36bfb3c05c4.jpg)
+
+3. Number of passengers cannot be negative
+
+![n2](https://user-images.githubusercontent.com/85042722/132301802-8219f535-42df-4496-99cc-5881f3a888bf.jpg)
 
 
